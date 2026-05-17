@@ -1,0 +1,4 @@
+Model,Accuracy
+MLP Neural Network,76.43
+Random Forest,73.57
+Gradient Boosting,43.57
